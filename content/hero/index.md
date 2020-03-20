@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
-name: 'Brittany Chiang'
-subtitle: 'I build things for the web.'
+name: 'Kishan Bharda'
+subtitle: 'I build apps for iOS and Android mobiles.'
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in Boston, MA specializing in building (and occasionally designing) exceptional, high-quality websites and applications.
+I'm a Mobile Application Developer based in Rajkot, Gujarat specializing in building exceptional, high-quality websites and applications.

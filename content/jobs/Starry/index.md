@@ -1,12 +1,12 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - Dec 2016'
-url: 'https://starry.com/'
+date: '2018-04-01'
+title: 'Ionic Developer'
+company: 'I Won Webtech Pvt. Lvd.'
+location: 'Rajkot, Gujarat'
+range: 'April 2018 - June 2018'
+url: 'http://www.iwonwebtech.com/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Started my career's first job here.
+- Implemented my Ionic Development knowledge and created some of basics Hybrid Mobile Applications.
+- Also sometimes worked on website development using HTML5, CSS3, Bootstrap and Javascript.
